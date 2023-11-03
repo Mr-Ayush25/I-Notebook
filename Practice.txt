@@ -1,0 +1,13 @@
+learn 
+/---------------BackEnd------------------/
+1.express-validator
+2.deep-email-validator
+3.Rainbow Table,Salt and pepper.
+4.B-Crypt and it's algorithm.
+5.JWT Tokens.
+6.Env and config in node.
+
+/---------------FrontEnd------------------/
+1.React-Roter-Dom
+2.UseContext
+3.UseLocation
